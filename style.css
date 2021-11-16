@@ -15,6 +15,7 @@ body {
   background-color: #fdfdfd;
   color: #353535;
   font-family: 'Fira Sans', sans-serif;
+  background: #507577;
 }
 main {
   background-color: var(--color-branco);
