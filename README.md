@@ -1,5 +1,5 @@
-# CV Responsivo - Live DIO - Trabalhando com responsividade na pr·tica
+# CV Responsivo - Live DIO - Trabalhando com responsividade na pr√°tica
 
-Esse repositÛrio foi criado na Live do Bootcamp Impulso React Web Developer da Digital Innovation One.
+Esse curriculo foi criado na Live do Bootcamp Impulso React Web Developer da Digital Innovation One.
 
-Fiquei muito feliz em construi meu CV na Live da DIO, j· tinha feito um mas n„o ficou igual esse... ficou sensacional.
+Fiquei muito feliz em construi meu CV na Live da DIO, j√° tinha feito um mas n√£o ficou igual esse... ficou sensacional.
