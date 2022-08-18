@@ -15,7 +15,7 @@ body {
   background-color: #fdfdfd;
   color: #353535;
   font-family: 'Fira Sans', sans-serif;
-  background: #507577;
+  background: black;
 }
 main {
   background-color: var(--color-branco);
@@ -132,7 +132,7 @@ article:not(:last-of-type) {
 section article .article-title-wrapper {
   align-items: center;
   border-bottom: 4px solid;
-  color: #284b63;
+  color: var(--color-azul-escuro);
   display: inline-flex;
   margin-bottom: 12px;
   padding: 0 2px;
@@ -144,7 +144,7 @@ section article .article-title-wrapper i {
 
 section article .article-title {
   border-top: 4px solid;
-  color: #284b63;
+  color: var(--color-azul-escuro);
   font-size: 32px;
   font-weight: 800;
   margin: 0 0 2px;
@@ -188,19 +188,19 @@ section article .timeline li:not(:last-of-type)::before {
 }
 
 section article .timeline-title {
-  color: #284b63;
+  color: var(--color-azul-escuro);
   font-size: 20px;
   margin: -8px 0 0;
 }
 
 section article .timeline-time {
-  color: #284b63;
+  color: var(--color-azul-escuro);
   font-weight: 400;
   margin: 0;
 }
 
 section article .timeline-place {
-  color: #284b63;
+  color: var(--color-azul-escuro);
   font-size: 18px;
   font-weight: 600;
   margin: 12px 0 4px;
@@ -229,7 +229,7 @@ section article .skills-container {
 
 section article .progress-bar {
   align-items: center;
-  background-color: #284b63;
+  background-color: var(--color-azul-escuro);
   border-radius: 20px;
   color: #fff;
   display: flex;
@@ -273,7 +273,7 @@ section article .soft-skill-rating::before {
 }
 
 section article .soft-skill-label {
-  color: #284b63;
+  color: var(--color-azul-escuro);
   margin: 4px 0 0;
 }
 
